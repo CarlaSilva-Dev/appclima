@@ -96,13 +96,18 @@ body {
 }
 
 
+#description {
+  font-weight: bold;
+  
+}
+
 #details-container {
   display: flex;
   justify-content: center;
   align-items: center;
 }
 
-#details-container #umidity {
+#details-container #humidity {
   border-right: 1px solid #fff;
   margin: .6rem;
   padding: .6rem;
